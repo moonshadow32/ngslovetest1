@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2ef711a-5421-480b-9a3a-ae4a3b571390" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/ngslove1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/ngslove1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../env_test/bin/activate" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../env_test/bin/activate.csh" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../env_test/bin/activate.fish" beforeDir="false" />
@@ -666,10 +669,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/ngslove1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+            <state relative-caret-position="266">
+              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
               <folding>
-                <element signature="e#48#63#0" expanded="true" />
+                <element signature="e#27#42#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -685,7 +688,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -697,7 +700,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="191" />
     <option name="y" value="96" />
     <option name="width" value="1400" />
@@ -709,8 +712,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -870,14 +873,14 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="191" y="96" width="1400" height="1018" extended-state="0" />
+    <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24909224" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1874317" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3276644" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32715377" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39930555" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -902,22 +905,13 @@
     <entry file="file://$PROJECT_DIR$/../testngs/test1/test1.py" />
     <entry file="file://$PROJECT_DIR$/../testngs/1/test1/test1v1.py" />
     <entry file="file://$PROJECT_DIR$/../testngs/1/test1/test1.py" />
-    <entry file="file://$PROJECT_DIR$/test/login_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-          <folding>
-            <element signature="e#48#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test/login_test.py" />
     <entry file="file://$PROJECT_DIR$/test/ngslove1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
+        <state relative-caret-position="266">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
           <folding>
-            <element signature="e#48#63#0" expanded="true" />
+            <element signature="e#27#42#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,18 +1,14 @@
-#!usr/bin/env python
 # -*- coding: utf-8 -*-
 
 
 
 import unittest
 from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 import time
 from selenium.webdriver.common.keys import Keys
 
 
-class LoginMailBox(unittest.TestCase):
+class NgsLoveSearch(unittest.TestCase):
 
 
     def setUp(self):
@@ -20,13 +16,6 @@ class LoginMailBox(unittest.TestCase):
         self.driver.maximize_window()
         self.driver.implicitly_wait(5)
         self.driver.set_page_load_timeout(20)
-
-    def check_exists_by_id(id):
-        return len(webdriver.find_elements_by_id(id)) > 0
-
-    def check_exists_by_css_selector(css_selector):
-        return len(webdriver.find_elements_by_css_selector(css_selector)) > 0
-
 
     def test_search(self):
         driver = self.driver
